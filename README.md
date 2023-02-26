@@ -1,2 +1,2 @@
 # Go Agenda
-_CLI Agenda_
+Agenda linha de comando desenvolvida em Go Lang.
